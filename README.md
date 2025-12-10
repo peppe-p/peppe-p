@@ -1,10 +1,9 @@
 <img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ludno4Z3YyeGpvMXVuNzZhNmU2M2pnc2U3YjZnNmZsMWIxMTRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8UQolqf6L7eJif3UdE/giphy.gif"  />
 
-###
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
 <p align="left">Im Giuseppe and Im a Software Dev. <br>I'm a passionate programmer. When I'm not coding, I enjoy learning<br>about wolves and their natural habitats. 🐺💻</p>
 
