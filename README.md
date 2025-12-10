@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h3 align="center">Hey 👋 What's up?</h3>
 
 
 <p align="left">Im Giuseppe and Im a Software Dev. <br>I'm a passionate programmer. When I'm not coding, I enjoy learning<br>about wolves and their natural habitats. 🐺💻</p>
