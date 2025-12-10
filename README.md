@@ -1,9 +1,115 @@
+<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ludno4Z3YyeGpvMXVuNzZhNmU2M2pnc2U3YjZnNmZsMWIxMTRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8UQolqf6L7eJif3UdE/giphy.gif"  />
+
+###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">Im Giuseppe and Im a Software Dev. <br>I'm a passionate programmer. When I'm not coding, I enjoy learning<br>about wolves and their natural habitats. 🐺💻</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">Others skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">Wanna collaborate?</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peppe-p&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peppe-p&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=peppe-p&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=peppe-p&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peppe-p&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=peppe-p.peppe-p&"  />
 </div>
 
 ###
