@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🤌🏼 Im italian<br>👨🏼‍💻 Im currently learning C++<br>🎯 **Goals**: Im alive<br>🎲 **Fun fact**: Vue.js > React</p>
+<p align="left">🤌🏼 Im italian<br>👨🏼‍💻 Im currently learning C++<br>🎯 <bold>Goals</bold>: Im alive<br>🎲 <bold>Fun fact</bold>: Vue.js > React</p>
 
 ###
 
