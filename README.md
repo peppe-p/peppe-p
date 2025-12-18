@@ -5,7 +5,7 @@
 <h3 align="left">Hey 👋 What's up?</h3>
 
 
-<p align="left">Im Giuseppe and Im a Software Dev. <br>I'm a passionate programmer. When I'm not coding, I enjoy learning<br>about wolves and their natural habitats. 🐺💻</p>
+<p align="left">Im Giuseppe and Im a Software Dev.<br>Im a passionate programmer. When Im not coding, I enjoy learning<br>about wolves and their natural habitats. 🐺💻</p>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🤌🏼 Im italian<br>👨🏼‍💻 Im currently learning C++<br>🎯 Goals: Im alive<br>🎲 Fun fact: Vue.js > React</p>
 
 ###
 
