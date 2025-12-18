@@ -87,7 +87,12 @@
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkwbjRzNWJkOHViYXZjZmw2d3M0ODBlM2k0MXZ6ZW50ZGwxYWdsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/onzZD8MV8Kal5ULXYh/giphy.gif"  />
 
 ###
-<h2 align="left">Wanna collaborate?</h2>
+
+<p align="left"><br> <br></p>
+
+###
+
+<h3 align="left">Wanna collaborate?</h3>
 
 ###
 
